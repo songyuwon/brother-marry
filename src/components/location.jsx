@@ -103,7 +103,7 @@ const Location = () => {
         className="root_daum_roughmap root_daum_roughmap_landing"
       ></Map>
       <Content>
-        대구 수성구 두산동 888-2번지
+        서울특별시 
         <br />
         호텔수성 수성스퀘어 3층 피오니홀
         <br />
